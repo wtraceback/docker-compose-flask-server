@@ -1,0 +1,7 @@
+flask
+python-dotenv
+gunicorn
+gevent
+greenlet
+pymysql
+flask-redis
